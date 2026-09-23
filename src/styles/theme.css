@@ -1,0 +1,24 @@
+:root {
+  /* Marca */
+  --color-primary: #0052CC;
+  --color-primary-alt: #0056D2;
+  --color-secondary: #90B8F8;
+  --color-secondary-alt: #A5C9FF;
+
+  /* Superfície (modo dark fotógrafo) */
+  --color-bg: #0B111E;
+  --color-surface: #151E2E;
+  --color-border: #23324A;
+
+  /* Texto */
+  --color-text: #E6ECF5;
+  --color-text-muted: #8C9CB8;
+
+  /* Semânticas */
+  --color-success: #10B981;
+  --color-warning: #F59E0B;
+  --color-danger: #EF4444;
+
+  --font-family-base: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --radius-base: 8px;
+}
