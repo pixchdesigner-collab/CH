@@ -22,3 +22,14 @@
   --font-family-base: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --radius-base: 8px;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family-base);
+  background: var(--color-bg);
+  color: var(--color-text);
+}
